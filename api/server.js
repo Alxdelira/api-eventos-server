@@ -15,8 +15,8 @@ const middlewares = jsonServer.defaults()
 
 server.use(middlewares)
 server.use(jsonServer.rewriter({
-    '/api/*': '/$1',
-    '/blog/:resource/:id/show': '/:resource/:id'
+    '/eventos/*': '/$1',
+    
 }))
 server.use(router)
 server.listen(3001, () => {
