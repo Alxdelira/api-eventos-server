@@ -2,6 +2,9 @@
 
 ## :memo: Descrição
 Projeto Voltado para criação de uma API-Fake com <a href="https://www.npmjs.com/package/json-server">JSON-Server</a> para uma Plataforma de Eventos.
+<p align="center">
+    <img alt="Tela da Pagina" src="/public/assets/template.jpeg" />
+</p>
 
 ## :wrench: Tecnologias utilizadas
 * Html
