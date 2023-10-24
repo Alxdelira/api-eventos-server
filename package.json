@@ -1,0 +1,14 @@
+{
+  "name": "api-eventos",
+  "version": "1.0.0",
+  "description": "Api de Eventos para Uso de Estudos",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "author": "Alxdelira",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
